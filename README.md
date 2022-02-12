@@ -31,8 +31,6 @@ Feel free to reach out if you ever need any support, career guidance, or advice 
 <img width="180px" align="right" src="assets/me.jpg"/>
 </p>
 
-=======
-
 
 ## Certification
 
