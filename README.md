@@ -27,7 +27,9 @@ Feel free to reach out if you ever need any support, career guidance, or advice 
 <img title="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
 <img title="Figma" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 <img title="PSDetch" src="./assets/psdetch.png" alt="psdetch" width="40" height="40"/>
-<img title="Sass" src="./assets/sass.png" alt="psdetch" width="40clea" height="40"/></p>
+<img title="Sass" src="./assets/sass.png" alt="psdetch" width="40clea" height="40"/>
+<img title="PSDetch" src="./assets/.png" alt="WordPress.png" width="40" height="40"/>
+<img title="Sass" src="./assets/php.png" alt="psdetch" width="40clea" height="40"/></p>
 <img width="180px" align="right" src="assets/me.jpg"/>
 </p>
 
