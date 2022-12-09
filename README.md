@@ -3,7 +3,9 @@
 <a href="www.linkedin.com/in/saikaldzh
 target=_blank"><img align="" src="https://img.shields.io/badge/linkedin-2867B2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="saikal-dildemurat" height="30" /></a>
 </p>
-
+<a href="www.linkedin.com/in/saikaldzh](https://replit.com/@SaikalDJ
+target=_blank"><img align="" src="https://img.shields.io/badge/linkedin-2867B2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="saikal-dildemurat" height="30" /></a>
+</p>
 ---
 
 <p>For the last two years I have devoted a lot of time and energy to web development. 💻 So far I have  JavaScript, HTML, CSS, jQuery, Bootstrap, Git/GitHub, Wordpress and SASS/LESS under my belt. I've started learning React, Node.JS, MongoDB, and Express.JS. I'm still enthusiastically grabbing onto any other programming languages, frameworks, or principles I can integrate into the coding web in my head.
