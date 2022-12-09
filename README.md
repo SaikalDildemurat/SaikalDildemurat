@@ -3,7 +3,7 @@
 <a href="www.linkedin.com/in/saikaldzh
 target=_blank"><img align="" src="https://img.shields.io/badge/linkedin-2867B2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="saikal-dildemurat" height="30" /></a>
 </p>
-<a href="www.linkedin.com/in/saikaldzh](https://replit.com/@SaikalDJ
+<a href="https://replit.com/@SaikalDJ
 target=_blank"><img align="" src="https://img.shields.io/badge/linkedin-2867B2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="saikal-dildemurat" height="30" /></a>
 </p>
 ---
